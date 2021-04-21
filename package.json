@@ -31,9 +31,7 @@
     "vuex-module-decorators": "^1.0.1"
   },
   "engines": {
-    "node": ">= 10.18.1",
-    "npm": ">= 6.13.4",
-    "yarn": ">= 1.21.1"
+ 
   },
   "browserslist": [
     "ie >= 11",
